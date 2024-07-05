@@ -2,6 +2,8 @@
 
 This repository contains the code for a Streamlit app designed to predict stock prices using historical data from Yahoo Finance. The prediction model is implemented using TensorFlow and Keras, providing insights into future stock trends.
 
+![example](https://github.com/MoayyadShahid/Bogle-Bot/assets/55198028/d82d497f-3a96-4082-979d-cc05ea1244f3)
+
 ## 🚀 Features
 
 - **Real-time stock data fetching** using `yfinance`.
