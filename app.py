@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 model = load_model('Stock Predictions Model.keras')
 
 
-st.header('Stock Market Predictor')
+st.header('Bogle Bot - Stock Market Predictor')
 
 stock = st.text_input('Enter Stock Symbol', 'GOOG')
 start = '2014-01-01'
