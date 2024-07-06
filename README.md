@@ -1,4 +1,4 @@
-# 📈 Bogle Bot - Stock Market Predictor
+# 📈 Bogle Bot - AI Stock Market Predictor
 
 This repository contains the code for a Streamlit app designed to predict stock prices using historical data from Yahoo Finance. The prediction model is implemented using TensorFlow and Keras, providing insights into future stock trends.
 
